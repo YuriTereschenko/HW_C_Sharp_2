@@ -9,7 +9,7 @@ void isWeekend (int dayNum)
     {
         Console.WriteLine("да");
     }
-    else if (dayNum <6 &  dayNum > 0)
+    else if (dayNum <6 &&  dayNum > 0)
     {
         Console.WriteLine("нет");
     }
